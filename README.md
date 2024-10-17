@@ -36,6 +36,6 @@ We welcome contributions! If you'd like to help improve the Event Planner System
 This project is not licensed. 
 
 ## Contact
-For any inquiries, please reach out to our team at [your_email@example.com].
+For any inquiries, please reach out to our team at [threemusketeers@example.com].
 
 Happy Planning! 🎊
